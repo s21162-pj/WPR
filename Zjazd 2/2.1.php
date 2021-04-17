@@ -1,5 +1,6 @@
 <html>
 <head>
+</head>
 <body>
 <form method="POST" action="">
 <input type="number" name="x" size="10">
@@ -35,5 +36,4 @@ switch ($znak)
 echo "Wynik = " . $wynik;
 ?>
 </body>
-</head>
 </html>
