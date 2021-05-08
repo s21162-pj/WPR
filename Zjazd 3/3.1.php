@@ -40,7 +40,7 @@ if (isset($_POST["x"]) && isset($_POST["y"]) && isset($_POST["znak"])) {
             if ($y != 0) {
                 podziel($x, $y);
             } else {
-                echo "Tak nie można";
+                echo "Błąd";
             }
             break;
         }
